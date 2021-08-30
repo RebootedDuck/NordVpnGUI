@@ -36,5 +36,9 @@ root = Tk()
 #size of the window
 root.geometry("180x30")
 
+print("bird")
+
 app = Window(root)
 root.mainloop()  
+
+print("yay")
