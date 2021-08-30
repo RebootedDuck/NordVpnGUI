@@ -40,5 +40,3 @@ print("bird")
 
 app = Window(root)
 root.mainloop()  
-
-print("yay")
