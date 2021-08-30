@@ -2,6 +2,7 @@ from tkinter import *
 import os
 connect = 'nordvpn connect'
 disconnect = 'nordvpn disconnect'
+print("birds")
 
 class Window(Frame):
 
