@@ -1,5 +1,5 @@
-Simple tkinter application written in python to control NordVPN (kind-of there's only two buttons)
 
-A lot of this code was CTRL+C / CTRL+V'ed from the web
+# NordVpnGUI
 
+Very simple GUI for NordVPN, only has 2 buttons, requires NordVpn-CLI
 
